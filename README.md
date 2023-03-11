@@ -14,7 +14,7 @@
 
 ## :bulb: 목표
 
-- **Verilog HDL 공부한다.**
+- **Verilog HDL를 공부한다.**
 
   > Verilog HDL 기술 방법을 사용한 회로 설계를 공부한다.
 
