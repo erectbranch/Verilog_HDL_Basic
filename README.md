@@ -18,6 +18,20 @@
 
   > Verilog HDL 기술 방법을 사용한 회로 설계를 공부한다.
 
+</br>
+
+## 🚩 정리한 문서 목록
+
+### 📔 컴퓨터 기초
+
+ - [디지털 시스템](https://github.com/erectbranch/Verilog_HDL_Basic/tree/master/ch01)
+
+   > ADC, DAC, bit, byte
+
+   > switching devices, logic gates, logic levels, CMOS, CMOS inverter, CMOS NAND gate
+
+   > FPGA, ASIC
+
 <br/>
 
 ## :mag: 목차
