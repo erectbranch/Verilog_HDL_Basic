@@ -24,13 +24,17 @@
 
 ### 📔 컴퓨터 기초
 
- - [디지털 시스템](https://github.com/erectbranch/Verilog_HDL_Basic/tree/master/ch01)
+ - [Digital System](https://github.com/erectbranch/Verilog_HDL_Basic/tree/master/ch01)
 
    > ADC, DAC, bit, byte
 
    > switching devices, logic gates, logic levels, CMOS, CMOS inverter, CMOS NAND gate
 
    > FPGA, ASIC
+
+ - [Boolean Algebra](https://github.com/erectbranch/Verilog_HDL_Basic/tree/master/ch01)
+
+    > Axiom, DeMorgan Theorem, Boolean Equation(SOP, POS), Karnaugh Map
 
 <br/>
 
